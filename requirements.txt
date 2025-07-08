@@ -1,0 +1,6 @@
+streamlit
+pandas
+ibm-watson-machine-learning
+ibm-cos-sdk
+fpdf2
+matplotlib
